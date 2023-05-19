@@ -1,4 +1,8 @@
 hello
 hello again
 another one
+<<<<<<< HEAD
 prank
+=======
+prank_2
+>>>>>>> my_sec_branch
